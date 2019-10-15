@@ -1,0 +1,107 @@
+
+Twake 
+Offre de stage 
+
+Développeur - H/F 
+
+Société 
+Twake est une startup créée en 2018 par deux étudiants de Télécom Nancy Romaric Mourgues et Benoît 
+Tallandier. Twake développe et vend des outils collaboratifs en ligne pour entreprise comprenant notamment 
+messagerie, visio-conférence, calendriers, gestion de projet, stockage cloud et suite office. Le produit Twake 
+App est vendu sous forme d'abonnement à des entreprises de différentes tailles et se place en concurrence 
+avec les solutions Slack, Google gSuite ou encore Microsoft Teams.
+
+
+Après une première année de développement, Twake a atteint ses premiers clients et cherche aujourd’hui à 
+faire grandir son équipe pour améliorer son produit. La solution Twake est donc fonctionnelle et développée, 
+les stages porteront sur l'ajout de nouvelles fonctionnalités, l'analyse de l'outil existant sur plusieurs niveaux 
+(sécurité, ergonomie, tests), et l'amélioration de l'existant. 🚀 
+
+
+Mission 
+
+En tant que stagiaire ayant des connaissances dans le domaine du développement web, vous aurez plusieurs 
+missions, qui suivront une semaine de formations aux frameworks utilisés. Ces missions seront distribuées 
+en fonction de vos compétences, de vos préférences et des besoin de la société. Voici une liste non 
+exhaustive des développements prévus :
+
+Trois axes principaux : 
+- 🔌  Création de connecteurs et APIs vers des services externes de stockage ou de calendriers, 
+- 📝  Développement d’une solution d’édition de texte riche en collaboration et en temps réel, 
+- 📊  Développement d’outils de monitoring de serveurs et statistiques,
+
+Trois axes secondaires : 
+- 💬  Ajout de fonctionnalités sur l’application de messagerie,
+
+- 📉  Ajout de fonctionnalités de gestion de projets (GANTT, statistiques),
+
+- 🦄  Tests unitaires et de charge automatisés.
+
+
+Compétences recherchées 
+
+Étudiant(e), vous avez des connaissances dans le domaine du développement web front-end ou back-end. 
+Une connaissance des frameworks Symfony ou React sont un avantage. Vous souhaitez découvrir et 
+participer à un projet en pleine croissance. Vous aimez travailler en équipe, vous êtes dynamique, autonome 
+et force de proposition. 
+
+
+Outils, langages et applications utilisés : 
+PHP (Symfony), Doctrine, Elastic Search, Mysql/Scylladb, HTML5/JS/CSS3 (React), git 🤓 
+
+
+Divers 
+
+Contrat : Stage 
+Dates : Du 10 juin 2019 au 2 aout 2019 
+Durée : 8 semaines 
+Lieu : Télécom Nancy - 193 Avenue Paul Muller, 54602 Villers-lès-Nancy 
+Matériel : Ordinateur non fourni, l'installation des logiciels requis se fera en début de stage
+
+Rémunération : Non rémunéré mais canettes et thés gratuits 🥤 
+
+
+Envoyez CV et lettre de motivation à (ou si vous avez besoin d’informations complémentaires) :
+
+contact@twakeapp.com
+
+
+
+
+
+
+Metadata of the PDF:
+File Name : offre-stage-juin-juillet
+PATH : /home/mohamed/linux/2A/PIDR/final/Data/pdf2txt/offre-stage-juin-juillet.pdf
+date : 2019-01-15T16:27:23Z
+pdf:PDFVersion : 1.3
+pdf:docinfo:title : offre-stage-juin-juillet
+xmp:CreatorTool : Pages
+access_permission:modify_annotations : true
+access_permission:can_print_degraded : true
+dcterms:created : 2019-01-15T16:27:23Z
+Last-Modified : 2019-01-15T16:27:23Z
+dcterms:modified : 2019-01-15T16:27:23Z
+dc:format : application/pdf; version=1.3
+title : offre-stage-juin-juillet
+Last-Save-Date : 2019-01-15T16:27:23Z
+pdf:docinfo:creator_tool : Pages
+access_permission:fill_in_form : true
+pdf:docinfo:modified : 2019-01-15T16:27:23Z
+meta:save-date : 2019-01-15T16:27:23Z
+pdf:encrypted : false
+dc:title : offre-stage-juin-juillet
+modified : 2019-01-15T16:27:23Z
+Content-Type : application/pdf
+meta:creation-date : 2019-01-15T16:27:23Z
+created : 2019-01-15T16:27:23Z
+access_permission:extract_for_accessibility : true
+access_permission:assemble_document : true
+xmpTPg:NPages : 1
+Creation-Date : 2019-01-15T16:27:23Z
+access_permission:extract_content : true
+access_permission:can_print : true
+producer : macOS Version 10.14 (Build 18A391) Quartz PDFContext
+access_permission:can_modify : true
+pdf:docinfo:producer : macOS Version 10.14 (Build 18A391) Quartz PDFContext
+pdf:docinfo:created : 2019-01-15T16:27:23Z

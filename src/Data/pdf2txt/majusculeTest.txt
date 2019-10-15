@@ -1,0 +1,35 @@
+
+helloFromTheOtherSide
+
+
+
+
+
+
+Metadata of the PDF:
+File Name : majusculeTest
+PATH : /home/mohamed/linux/2A/PIDR/final/Data/pdf2txt/majusculeTest.pdf
+pdf:PDFVersion : 1.4
+xmp:CreatorTool : Writer
+dc:language : fr-FR
+access_permission:modify_annotations : true
+access_permission:can_print_degraded : true
+meta:creation-date : 2019-01-25T23:26:24Z
+created : 2019-01-25T23:26:24Z
+access_permission:extract_for_accessibility : true
+access_permission:assemble_document : true
+xmpTPg:NPages : 1
+Creation-Date : 2019-01-25T23:26:24Z
+language : fr-FR
+dcterms:created : 2019-01-25T23:26:24Z
+dc:format : application/pdf; version=1.4
+access_permission:extract_content : true
+access_permission:can_print : true
+pdf:docinfo:creator_tool : Writer
+access_permission:fill_in_form : true
+pdf:encrypted : false
+producer : LibreOffice 6.0
+access_permission:can_modify : true
+pdf:docinfo:producer : LibreOffice 6.0
+pdf:docinfo:created : 2019-01-25T23:26:24Z
+Content-Type : application/pdf

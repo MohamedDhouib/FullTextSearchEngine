@@ -1,0 +1,126 @@
+
+26/11/2018 
+ 
+
+ADRESSE POSTALE 
+UNIVERSITE DE LORRAINE 
+34, COURS LEOPOLD – BP 25233 
+54052 NANCY CEDEX 
+EMAIL@UNIV-LORRAINE.FR 
+WWW.UNIV-LORRAINE.FR 
+
+Votre environnement  
+
+L’Université de Lorraine est actrice du développement économique et social du territoire. 
+Elle développe des liens interculturels et intergénérationnels au cœur de la région 
+campus, mène une politique scientifique coordonnée à l’échelle régionale et favorise 
+l’accès du plus grand nombre à l’enseignement supérieur. Des sciences fondamentales 
+aux sciences humaines, elle offre une couverture complète des domaines de la 
+connaissance : sciences, santé, technologies, sciences de l'ingénieur, sciences humaines 
+et sociales, droit, économie, gestion, arts, lettres et langues. 
+
+La Direction du Numérique est chargée de la mise en œuvre opérationnelle de la 
+stratégie numérique de l'Université de Lorraine et assure la sécurité du système 
+d'information. Au sein de la sous-direction Système d'Information Etudes et 
+Développement dont les missions sont le développement, l’intégration et le suivi 
+opérationnel des applications métiers, vous intègrerez une équipe d’une dizaine de 
+développeurs. 
+
+Votre stage 
+
+Nous vous proposons de mener un projet d’étude autour des agents conversationnels 
+(chatbots). Il s’agit de mettre en œuvre une preuve de concept (démonstration de 
+faisabilité) d’une application web intégrant un chatbot. Il vous faudra : 
+
+• étudier l’état de l’art dans le domaine des chatbots : revue des outils existants 
+• défricher l’environnement technique du chatbot retenu 
+• mener et rédiger l’analyse technique 
+• développer une application web de démonstration en Java (Spring vaadin) ou 
+
+PHP (Symfony) 
+Ce stage pourra s’enrichir d’un développement sur mobile ou d’une étude sur les 
+assistants vocaux. 
+
+Vos connaissances 
+• Langage de programmation web Java ou PHP  
+• Maitrise de la rédaction de documentation  
+
+Vos qualités 
+• Bon relationnel 
+• Curiosité 
+• Autonomie 
+
+Votre candidature 
+
+Ce stage vous intéresse ? Faites nous parvenir votre CV et votre lettre de motivation à 
+l’attention d’Olivier ZILLER par mail (dn-sied-recrutements@univ-lorraine.fr). 
+
+ 
+
+DIRECTION DU NUMÉRIQUE 
+
+SOUS-DIRECTION SYSTÈME 
+D’INFORMATION, ÉTUDES ET 
+DÉVELOPPEMENT 
+
+24-30 rue Lionnois - BP 60120 54 
+003 NANCY CEDEX 
+ 
+Sous-directeur : Olivier Ziller Développement d’une application web de chatbot (Bac + 4 à Bac + 5) 
+
+STAGE	
+
+
+
+
+
+
+Metadata of the PDF:
+File Name : Offre de Stage - Univ Lorraine - Dev-chatbot
+PATH : /home/mohamed/linux/2A/PIDR/final/Data/pdf2txt/Offre de Stage - Univ Lorraine - Dev-chatbot.pdf
+date : 2018-11-27T09:26:24Z
+pdf:docinfo:custom:AAPL:Keywords : 
+pdf:PDFVersion : 1.3
+pdf:docinfo:title : Offre de Stage - Dev-chatbot
+xmp:CreatorTool : Word
+Keywords : 
+access_permission:modify_annotations : true
+access_permission:can_print_degraded : true
+subject : 
+AAPL:Keywords : 
+dc:creator : Céline Didier
+dcterms:created : 2018-11-27T09:26:24Z
+Last-Modified : 2018-11-27T09:26:24Z
+dcterms:modified : 2018-11-27T09:26:24Z
+dc:format : application/pdf; version=1.3
+title : Offre de Stage - Dev-chatbot
+Last-Save-Date : 2018-11-27T09:26:24Z
+pdf:docinfo:creator_tool : Word
+access_permission:fill_in_form : true
+pdf:docinfo:keywords : 
+pdf:docinfo:modified : 2018-11-27T09:26:24Z
+meta:save-date : 2018-11-27T09:26:24Z
+pdf:encrypted : false
+dc:title : Offre de Stage - Dev-chatbot
+modified : 2018-11-27T09:26:24Z
+cp:subject : 
+pdf:docinfo:subject : 
+Content-Type : application/pdf
+pdf:docinfo:creator : Céline Didier
+creator : Céline Didier
+meta:author : Céline Didier
+dc:subject : 
+meta:creation-date : 2018-11-27T09:26:24Z
+created : 2018-11-27T09:26:24Z
+access_permission:extract_for_accessibility : true
+access_permission:assemble_document : true
+xmpTPg:NPages : 1
+Creation-Date : 2018-11-27T09:26:24Z
+access_permission:extract_content : true
+access_permission:can_print : true
+meta:keyword : 
+Author : Céline Didier
+producer : macOS Version 10.14.1 (assemblage 18B75) Quartz PDFContext
+access_permission:can_modify : true
+pdf:docinfo:producer : macOS Version 10.14.1 (assemblage 18B75) Quartz PDFContext
+pdf:docinfo:created : 2018-11-27T09:26:24Z

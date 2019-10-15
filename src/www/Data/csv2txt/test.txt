@@ -1,0 +1,17 @@
+	skqld			
+	qqsd			
+	qsd			
+	qsd			
+	qsd			
+	qsd			
+	qd			dsqd
+
+
+
+
+
+Metadata of the CSV:
+File Name : test
+PATH : /home/ghassen/pidr/search-engine/final/Data/csv2txt/test.csv
+Type : csv
+Date : 2019-04-17T11:46:49.288767Z

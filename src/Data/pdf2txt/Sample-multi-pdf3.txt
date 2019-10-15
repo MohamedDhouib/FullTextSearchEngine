@@ -1,0 +1,135 @@
+
+ 1. axf:output-volume-info
+First, axf:output-volume-info(extended element) is needed. The axf:output-volume-info
+
+is placed as a child of fo:root. If it comes before fo:page-sequence appears, it is possible to
+put it in an arbitrary position under a child of fo:root.
+
+<axf:output-volume-info
+  initial-volume-number="2"
+  format="-1"
+  bookmark-include="separate"
+/>
+
+<fo:page-sequence>
+  PAGE-SEQUENCE-1
+  ...
+</fo:page-sequence>
+<fo:page-sequence>
+  PAGE-SEQUENCE-2
+  ...
+</fo:page-sequence>
+<fo:page-sequence axf:output-volume-break="true">
+  PAGE-SEQUENCE-3
+  ...
+</fo:page-sequence>
+
+Sample of Multiple PDF output
+
+2 ｜
+
+
+
+Effective only when outputting to files. It’s not available for printing or stream output.
+At that time the file name should be given by GUI, command line parameter or etc. The file
+names of separate volumes are given automatically based on the output file names. This
+process is done by inputting the strings formatted by the format property right before the
+file extension of the output file name. In the above example, when document.pdf is given
+to  the  file  name,  PAGE-SEQUENCE-1  and  PAGE-SEQUENCE-2  are  outputted  to
+document-2.pdf, PAGE-SEQUENCE-3 is outputted to document-3.pdf.
+
+The numeric value applied to the format property can be given by the axf:initial-volume-
+number property as the initial value. The format property is the same as "7.24.1. format" in
+the XSL-FO specification.
+
+The volume is separated by the axf:output-volume-break property specified to fo:page-
+sequence.  If  the  axf:output-volume-filename  property  is  specified,  only  the  separated
+volumes can be outputted with the specified file name.
+
+The book mark of PDF in multi separate volume can be set by the axf:bookmark-include
+from the following options.
+
+・ Adds a bookmark to the first separate volume only.
+
+・ Adds bookmarks to all the separate volumes.
+
+Sample of Multiple PDF output
+
+3 ｜
+
+
+
+・ Adds each bookmark to each separate volume.
+
+The following conditions are required for the actual separate volume.
+
+・ The <axf:output-volume-info> element should be included in FO.
+
+・ The following items are set in each interface.
+
+GUI Multi Volume should be checked in the PDF Output Dialog.
+Command-line The –multivol parameter should be specified.
+.NET true should be specified to the MultiVolume property.
+COM true should be specified to the MultiVolume property.
+Java The separate volume should be specified by XfoObj::setMultiVolume().
+C++/C The separate volume should be specified by XfoObj::setMultiVolume().
+
+Sample of Multiple PDF output
+
+4 ｜
+
+
+	Sample of Multiple PDF output
+	Table of Contents
+	Foreword
+	1. axf:output-volume-info
+	2. initial-volume-number
+	3. axf:bookmark-include
+	4. axf:output-volume-break
+	5. axf:output-volume-filename
+	6. Internal link of Multiple PDF
+
+
+
+
+
+Metadata of the PDF:
+File Name : Sample-multi-pdf3
+PATH : /home/mohamed/linux/2A/PIDR/final/Data/pdf2txt/Sample-multi-pdf3.pdf
+date : 2004-11-16T06:29:22Z
+pdf:PDFVersion : 1.4
+pdf:docinfo:title : Sample of Multiple PDF output
+xmp:CreatorTool : XSL Formatter V3.2 MR1
+access_permission:modify_annotations : true
+access_permission:can_print_degraded : true
+dc:creator : Antenna House, Inc.
+dcterms:created : 2004-11-16T06:29:22Z
+Last-Modified : 2004-11-16T06:29:22Z
+dcterms:modified : 2004-11-16T06:29:22Z
+dc:format : application/pdf; version=1.4
+title : Sample of Multiple PDF output
+Last-Save-Date : 2004-11-16T06:29:22Z
+pdf:docinfo:creator_tool : XSL Formatter V3.2 MR1
+access_permission:fill_in_form : true
+pdf:docinfo:modified : 2004-11-16T06:29:22Z
+meta:save-date : 2004-11-16T06:29:22Z
+pdf:encrypted : false
+dc:title : Sample of Multiple PDF output
+modified : 2004-11-16T06:29:22Z
+Content-Type : application/pdf
+pdf:docinfo:creator : Antenna House, Inc.
+creator : Antenna House, Inc.
+meta:author : Antenna House, Inc.
+meta:creation-date : 2004-11-16T06:29:22Z
+created : 2004-11-16T06:29:22Z
+access_permission:extract_for_accessibility : true
+access_permission:assemble_document : true
+xmpTPg:NPages : 3
+Creation-Date : 2004-11-16T06:29:22Z
+access_permission:extract_content : true
+access_permission:can_print : true
+Author : Antenna House, Inc.
+producer : Hyf_PdfCreatorMP 2.2.1(Windows)
+access_permission:can_modify : true
+pdf:docinfo:producer : Hyf_PdfCreatorMP 2.2.1(Windows)
+pdf:docinfo:created : 2004-11-16T06:29:22Z
